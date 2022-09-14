@@ -14,8 +14,12 @@ public class Calculator {
 		return num1 * num2;
 	}
 
-	public double doDiv2(double num1, double num2) {
+	public double doDiv(double num1, double num2) {
 		return num1 / num2;
 	}
+	public double doDiv3(double num1, double num2) {
+		return num1 / num2;
+	}
+
 
 }
